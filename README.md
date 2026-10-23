@@ -1,7 +1,7 @@
 # Challenge Sprint 4 — Classificação de Energia Renovável
 
-Integrantes (nome - RM):
-Vinicius Molena - 571270
+--Integrantes (nome - RM):
+-- Vinicius Molena - 571270
 Matheus Caviglia Ferreira - 569638
 Gabriel Vilas Boas da Silva Viana - 571603
 Nathan Guilherme Werner - 572925
