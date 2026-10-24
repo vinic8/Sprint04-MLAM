@@ -6,7 +6,6 @@
 - Matheus Caviglia Ferreira - 569638
 - Gabriel Vilas Boas da Silva Viana - 571603
 - Nathan Guilherme Werner - 572925
-- Gustavo Henrique Pereira Correia - 569921
 - Ricardo Algazi dos Santos - 569600
 
 Dataset: Renewable Energy Production Dataset (2010–2020), Kaggle. Alvo: `Energy_Class`.
